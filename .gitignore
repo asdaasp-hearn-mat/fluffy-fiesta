@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Manim outputs
+media/
+videos/
+images/
+.partial_movie_files/
+
+# Editor
+
+
+
+# Logs
+*.log
